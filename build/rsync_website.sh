@@ -1,7 +1,7 @@
 #!/bin/bash
 #############################################################################################################################################################################
 #
-#   You can't e xecute this script locally since keys, stored in Jenkins, are needed
+#   You can't execute this script locally since keys, stored in Jenkins, are needed
 #   1. you need to store the id_rsa and known_host file on your local
 #   (for these pwd ask mbiarnes or geoffrey)
 #   2. create a optaplanner directory underneath $HOME/.ssh to store the needed keys ($HOME/.ssh/optaplanner)
